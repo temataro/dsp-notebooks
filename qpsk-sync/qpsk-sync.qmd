@@ -1,6 +1,6 @@
 ---
 title: QPSK-Sync
-theme: "cerulean"
+theme: "journal"
 # https://quarto.org/docs/dashboards/theming.html
 highlight-style: github
 author: github.com/{patater, temataro}
